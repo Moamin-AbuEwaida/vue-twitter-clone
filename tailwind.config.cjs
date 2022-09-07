@@ -2,7 +2,7 @@
 module.exports = {
   purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   mode: "jit",
-  darkMode: false,
+  media: false,
   theme: {
      container: {
       center: true
